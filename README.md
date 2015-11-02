@@ -1,0 +1,2 @@
+# gitpractiques
+proactiques amb git
